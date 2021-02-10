@@ -1,0 +1,13 @@
+#main_page {
+    /* width: 50%; */
+    margin: auto;
+}
+
+.buttons {
+    width: 150px;
+    margin-right: 0;
+    /* border: solid red 1px; */
+    display: inline;
+    position: relative;
+}
+
